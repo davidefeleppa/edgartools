@@ -1,0 +1,9 @@
+label,concept,2024-09-28,2023-09-30,2022-09-24
+Dividends and dividend equivalents declared per share or RSU (in dollars per share or RSU),us-gaap_CommonStockDividendsPerShareDeclared,0.98,0.94,0.9
+Common stock issued,us-gaap_StockIssuedDuringPeriodValueNewIssues,1423000000.0,1346000000.0,1175000000.0
+Common stock repurchased,us-gaap_StockRepurchasedAndRetiredDuringPeriodValue,95000000000.0,76600000000.0,90200000000.0
+Common stock withheld related to net share settlement of equity awards,us-gaap_AdjustmentsRelatedToTaxWithholdingForShareBasedCompensation,3993000000.0,3521000000.0,2971000000.0
+Dividends and dividend equivalents declared,us-gaap_Dividends,15218000000.0,14996000000.0,14793000000.0
+Net Income,us-gaap_NetIncomeLoss,93736000000.0,96995000000.0,99803000000.0
+Other comprehensive income/(loss),us-gaap_OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent,4280000000.0,-343000000.0,-11272000000.0
+Share-based compensation,us-gaap_AdjustmentsToAdditionalPaidInCapitalSharebasedCompensationRequisiteServicePeriodRecognitionValue,12034000000.0,11138000000.0,9280000000.0

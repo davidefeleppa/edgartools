@@ -1,0 +1,2 @@
+company_ticker,company_name,filing_date,transaction_date,insider_name,insider_title,transaction_code,security_title,shares,price_per_share,transaction_value,ownership_type,shares_owned_after,filing_url
+AAPL,Apple Inc.,2025-05-12,2025-05-12,Chris Kondo,Principal Accounting Officer,S,Open Market Sale,4486.0,208.1933,933955.1438,Direct,15533.0,https://www.sec.gov/Archives/edgar/data/0000320193/
